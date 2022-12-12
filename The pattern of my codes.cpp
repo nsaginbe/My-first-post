@@ -45,6 +45,6 @@ int main(){
 
     while (t--){
         solve();
-        cout << endl;
+        //cout << endl;
     }
 }
